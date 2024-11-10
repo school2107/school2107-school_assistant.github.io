@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+    font-size:2cm;
+}
+span {
+
+    font-size:2cm;
+    background-color:rgb(238, 222, 253);
+    
+    
+}
+.conteiner{
+    
+    text-align:center;
+    
+}
+.main{
+    text-align: center;
+    line-height: 3cm;
+    word-spacing: 3cm;
+    
+}
+.text{
+    font-size: 2cm;
+}
+
+ol{
+    text-align: left;
+    font-size: 1cm;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.text1{
+    text-align:left;
+    line-height: 2cm; 
+}
+.text2{
+    text-align:left;
+    font-size: 1cm;
+    line-height:1cm;
+}
+img{
+    vertical-align: middle;
+}
+li{
+    font-size: 1cm;
+    line-height: 2cm;
+}
+.math{
+    line-height: 1cm;
+}
